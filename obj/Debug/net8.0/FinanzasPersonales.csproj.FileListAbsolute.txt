@@ -1,0 +1,14 @@
+C:\Users\Usuario\Downloads\FinanzasPersonales\FinanzasPersonales\bin\Debug\net8.0\FinanzasPersonales.exe
+C:\Users\Usuario\Downloads\FinanzasPersonales\FinanzasPersonales\bin\Debug\net8.0\FinanzasPersonales.deps.json
+C:\Users\Usuario\Downloads\FinanzasPersonales\FinanzasPersonales\bin\Debug\net8.0\FinanzasPersonales.runtimeconfig.json
+C:\Users\Usuario\Downloads\FinanzasPersonales\FinanzasPersonales\bin\Debug\net8.0\FinanzasPersonales.dll
+C:\Users\Usuario\Downloads\FinanzasPersonales\FinanzasPersonales\bin\Debug\net8.0\FinanzasPersonales.pdb
+C:\Users\Usuario\Downloads\FinanzasPersonales\FinanzasPersonales\obj\Debug\net8.0\FinanzasPersonales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Downloads\FinanzasPersonales\FinanzasPersonales\obj\Debug\net8.0\FinanzasPersonales.AssemblyInfoInputs.cache
+C:\Users\Usuario\Downloads\FinanzasPersonales\FinanzasPersonales\obj\Debug\net8.0\FinanzasPersonales.AssemblyInfo.cs
+C:\Users\Usuario\Downloads\FinanzasPersonales\FinanzasPersonales\obj\Debug\net8.0\FinanzasPersonales.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\FinanzasPersonales\FinanzasPersonales\obj\Debug\net8.0\FinanzasPersonales.dll
+C:\Users\Usuario\Downloads\FinanzasPersonales\FinanzasPersonales\obj\Debug\net8.0\refint\FinanzasPersonales.dll
+C:\Users\Usuario\Downloads\FinanzasPersonales\FinanzasPersonales\obj\Debug\net8.0\FinanzasPersonales.pdb
+C:\Users\Usuario\Downloads\FinanzasPersonales\FinanzasPersonales\obj\Debug\net8.0\FinanzasPersonales.genruntimeconfig.cache
+C:\Users\Usuario\Downloads\FinanzasPersonales\FinanzasPersonales\obj\Debug\net8.0\ref\FinanzasPersonales.dll
